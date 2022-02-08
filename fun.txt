@@ -13,11 +13,10 @@ Rating: 3
 
 Commit early, commit often. A tip for version controlling - not for relationships
 
-Rating: 7
+Rating: 3
 
 ---
 
 People used to laugh at me when I would say "I want to be a comedian", well nobody's laughing now.
 
 Rating: 3
-
